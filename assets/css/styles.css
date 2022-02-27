@@ -1,0 +1,125 @@
+/***
+*
+* ADDING CUSTOM CSS RULES TO STYLE
+*
+***/
+::selection { background-color: #E13300; color: white; }
+::-moz-selection { background-color: #E13300; color: white; }
+
+html {
+
+	width: 99%;
+	padding: 0px 20px 0px 30px;
+	align-content: center;
+
+}
+
+h2.page-heading {
+
+	color: #808000;
+	text-align: center;
+
+}
+
+h4.page-info {
+
+	color: #4682b4;
+	text-align: center;
+	border-bottom: 1px solid #000000;
+	padding: 10px;
+
+}
+
+h4.modal-heading {
+
+	color: #4682b4;
+	text-align: center;
+
+}
+
+h5.error-message {
+
+	color: #DC143C;
+	text-align: center;
+	padding: 5px;
+
+}
+
+h5.modal-info {
+
+	color: #5D6D7E;
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+	padding: 10px;
+
+}
+
+div#login-box {
+
+	margin-top: 100px;
+	padding-left: -100px;
+	border: 2px solid #000000;
+
+}
+
+div.page-content {
+
+	min-height: 610px;
+}
+
+footer {
+
+	text-align: center;
+
+}
+
+p.cr-info {
+
+	font-style: italic;
+	font-weight: normal;
+	color: #D68910;
+	display: inline-block;
+
+}
+
+#health-form h5 {
+  color: red;
+}
+
+#health-form input[type="radio"] + label {
+  color: #4F5155;
+}
+
+#health-form input[type="radio"] + label span {
+  display:inline-block;
+  width:19px;
+  height:19px;
+  margin:-2px 3px 0 0;
+  vertical-align:middle;
+  cursor:pointer;
+}
+
+#health-form input[type="text"] {
+  font-family: Consolas, Monaco, Courier New, Courier, monospace;
+  font-size: 16px;
+  color: blue;
+}
+
+ul.tsc_pagination { margin:4px 0; padding:0px; height:100%; overflow:hidden; font:12px 'Tahoma'; list-style-type:none; }
+ul.tsc_pagination li { float:left; margin:0px; padding:0px; margin-left:5px; }
+ 
+ul.tsc_pagination li a { color:black; display:block; text-decoration:none; padding:7px 10px 7px 10px; }
+ 
+ 
+ul.tsc_paginationA li a { color:#FFFFFF; border-radius:3px; -moz-border-radius:3px; -webkit-border-radius:3px; }
+ 
+ul.tsc_paginationA01 li a { color:#474747; border:solid 1px #B6B6B6; padding:6px 9px 6px 9px; background:#E6E6E6; background:-moz-linear-gradient(top, #FFFFFF 1px, #F3F3F3 1px, #E6E6E6); background:-webkit-gradient(linear, 0 0, 0 100%, color-stop(0.02, #FFFFFF), color-stop(0.02, #F3F3F3), color-stop(1, #E6E6E6)); }
+ul.tsc_paginationA01 li:hover a,
+ul.tsc_paginationA01 li.current a { background:#F99CCF; }
+
+.datepicker {
+
+	margin-left: 18px;
+	
+}

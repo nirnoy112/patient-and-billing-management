@@ -1,0 +1,15 @@
+%FDF-1.2
+%����
+1 0 obj
+<< 
+/FDF << /Fields [ <</T(insurance_id)/V()>><</T(pt_name)/V(Nirnoy Nasid)>><</T(birth_mm)/V(06)>><</T(birth_dd)/V(20)>><</T(birth_yy)/V(2017)>><</T(ins_name)/V()>><</T(pt_street)/V()>><</T(pt_city)/V()>><</T(pt_state)/V()>><</T(pt_zip)/V()>><</T(ins_street)/V()>><</T(ins_city)/V()>><</T(ins_state)/V()>><</T(ins_zip)/V()>><</T(NUCC USE)/V()>><</T(other_ins_name)/V()>><</T(other_ins_policy)/V()>><</T(other_ins_plan_name)/V()>><</T(employment)/V()>><</T(pt_auto_accident)/V()>><</T(accident_place)/V()>><</T(other_accident)/V()>><</T(ins_policy)/V()>><</T(ins_dob_mm)/V()>><</T(ins_dob_dd)/V()>><</T(ins_dob_yy)/V()>><</T(ins_plan_name)/V()>><</T(ins_benefit_plan)/V()>><</T(pt_signature)/V(Signature on File)>><</T(pt_date)/V()>><</T(ins_signature)/V(Signature on File)>><</T(cur_ill_yy)/V(17)>><</T(cur_ill_dd)/V(23)>><</T(cur_ill_mm)/V(06)>><</T(ref_physician)/V()>><</T(physician number 17a)/V()>><</T(id_physician)/V()>><</T(lab)/V()>><</T(charge)/V(0.00)>><</T(diagnosis1)/V()>><</T(diagnosis2)/V()>><</T(diagnosis3)/V()>><</T(diagnosis4)/V()>><</T(diagnosis5)/V()>><</T(diagnosis6)/V()>><</T(diagnosis7)/V()>><</T(diagnosis8)/V()>><</T(diagnosis9)/V()>><</T(diagnosis10)/V()>><</T(diagnosis11)/V()>><</T(diagnosis12)/V()>><</T(medicaid_resub)/V()>><</T(original_ref)/V()>><</T(prior_auth)/V()>><</T(sv1_yy_from)/V(17)>><</T(sv1_dd_from)/V(23)>><</T(sv1_mm_from)/V(06)>><</T(sv1_yy_end)/V(17)>><</T(sv1_dd_end)/V(23)>><</T(sv1_mm_end)/V(06)>><</T(place1)/V(24)>><</T(cpt1)/V(72050)>><</T(mod1)/V()>><</T(diag1)/V()>><</T(day1)/V()>><</T(ch1)/V($0.00)>><</T(local1)/V(1083887186)>><</T(epsdt1)/V()>><</T(tax_id)/V()>><</T(ssn)/V(EIN)>><</T(pt_account)/V()>><</T(assignment)/V()>><</T(t_charge)/V(0.00)>><</T(amt_paid)/V(0.00)>><</T(t_due)/V(0)>><</T(fac_name)/V(ASPC DOUGLAS)>><</T(fac_street)/V(6911 N. BDI BLVD)>><</T(fac_location)/V(DOUGLAS, AZ 85607)>><</T(pin1)/V(4403)>><</T(doc_name)/V(SADDLEBACK PORTABLE X-RAY)>><</T(doc_street)/V(P.O. BOX 4427)>><</T(doc_location)/V(SANTA ANA, CA 92701)>><</T(pin)/V(1083887186)>>] 
+/F (C:\WAMP\www\sbp\PnS/core/pdfMaster.pdf) /ID [ <7124bc9e84c2a2c6fce1388c0578984b>
+] >> 
+>> 
+endobj
+trailer
+<<
+/Root 1 0 R 
+
+>>
+%%EOF

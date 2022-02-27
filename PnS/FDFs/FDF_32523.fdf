@@ -1,0 +1,15 @@
+%FDF-1.2
+%����
+1 0 obj
+<< 
+/FDF << /Fields [ <</T(insurance_type)/V(Medicaid)>><</T(insurance_id)/V()>><</T(pt_name)/V(Nirnoyy Nasidy)>><</T(birth_mm)/V(06)>><</T(birth_dd)/V(12)>><</T(birth_yy)/V(2017)>><</T(ins_name)/V()>><</T(pt_street)/V()>><</T(pt_city)/V()>><</T(pt_state)/V()>><</T(pt_zip)/V()>><</T(rel_to_ins)/V(O)>><</T(ins_street)/V(88 red st #2)>><</T(ins_city)/V(ti)>><</T(ins_state)/V(ti)>><</T(ins_zip)/V(ti)>><</T(NUCC USE)/V()>><</T(other_ins_name)/V()>><</T(other_ins_policy)/V()>><</T(other_ins_plan_name)/V()>><</T(employment)/V()>><</T(pt_auto_accident)/V()>><</T(accident_place)/V()>><</T(other_accident)/V()>><</T(ins_policy)/V(5ui5oi)>><</T(ins_dob_mm)/V()>><</T(ins_dob_dd)/V()>><</T(ins_dob_yy)/V()>><</T(ins_plan_name)/V()>><</T(ins_benefit_plan)/V()>><</T(pt_signature)/V(Signature on File)>><</T(pt_date)/V()>><</T(ins_signature)/V(Signature on File)>><</T(cur_ill_yy)/V(17)>><</T(cur_ill_dd)/V(12)>><</T(cur_ill_mm)/V(06)>><</T(ref_physician)/V(NASID KAMAL NIRNOY)>><</T(physician number 17a)/V()>><</T(id_physician)/V()>><</T(lab)/V()>><</T(charge)/V(0.00)>><</T(diagnosis1)/V(M25.500)>><</T(diagnosis2)/V(M25.500)>><</T(diagnosis3)/V()>><</T(diagnosis4)/V()>><</T(diagnosis5)/V()>><</T(diagnosis6)/V()>><</T(diagnosis7)/V()>><</T(diagnosis8)/V()>><</T(diagnosis9)/V()>><</T(diagnosis10)/V(M25.500)>><</T(diagnosis11)/V()>><</T(diagnosis12)/V()>><</T(medicaid_resub)/V()>><</T(original_ref)/V()>><</T(prior_auth)/V()>><</T(sv1_yy_from)/V(17)>><</T(sv1_dd_from)/V(12)>><</T(sv1_mm_from)/V(06)>><</T(sv1_yy_end)/V(17)>><</T(sv1_dd_end)/V(12)>><</T(sv1_mm_end)/V(06)>><</T(place1)/V(24)>><</T(cpt1)/V(72050)>><</T(mod1)/V()>><</T(diag1)/V()>><</T(day1)/V()>><</T(ch1)/V($0.00)>><</T(local1)/V(1083887186)>><</T(epsdt1)/V()>><</T(sv2_yy_from)/V(17)>><</T(sv2_dd_from)/V(12)>><</T(sv2_mm_from)/V(06)>><</T(sv2_yy_end)/V(17)>><</T(sv2_dd_end)/V(12)>><</T(sv2_mm_end)/V(06)>><</T(place2)/V(24)>><</T(cpt2)/V(72074)>><</T(mod2)/V()>><</T(diag2)/V()>><</T(day2)/V()>><</T(ch2)/V($10.00)>><</T(local2)/V(1083887186)>><</T(epsdt2)/V()>><</T(tax_id)/V()>><</T(ssn)/V(EIN)>><</T(pt_account)/V()>><</T(assignment)/V()>><</T(t_charge)/V(60.00)>><</T(amt_paid)/V(0.00)>><</T(t_due)/V(60)>><</T(fac_name)/V(ASPC DOUGLAS)>><</T(fac_street)/V(6911 N. BDI BLVD)>><</T(fac_location)/V(DOUGLAS, AZ 85607)>><</T(pin1)/V(4403)>><</T(doc_name)/V(SADDLEBACK PORTABLE X-RAY)>><</T(doc_street)/V(P.O. BOX 4427)>><</T(doc_location)/V(SANTA ANA, CA 92701)>><</T(pin)/V(1083887186)>>] 
+/F (C:\WAMP\www\sbp\PnS/core/pdfMaster.pdf) /ID [ <e3cf06b4aa0b0efce0c3d77f4b5dba67>
+] >> 
+>> 
+endobj
+trailer
+<<
+/Root 1 0 R 
+
+>>
+%%EOF
